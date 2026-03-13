@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dsasulin
-- 👀 I’m interested in DWH, ETL, MPP, Scala, Spark, SQL.
-- 🌱 I’m currently learning Scala, Java
+- 👀 I’m interested in DWH, ETL, MPP, AI.
 
 - 📫 dsasulin@gmail.com
 
